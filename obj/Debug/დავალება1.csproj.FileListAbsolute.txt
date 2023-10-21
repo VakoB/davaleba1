@@ -1,0 +1,10 @@
+C:\Users\x\source\repos\დავალება1\bin\Debug\დავალება1.exe.config
+C:\Users\x\source\repos\დავალება1\bin\Debug\დავალება1.exe
+C:\Users\x\source\repos\დავალება1\bin\Debug\დავალება1.pdb
+C:\Users\x\source\repos\დავალება1\obj\Debug\დავალება1.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\დავალება1\obj\Debug\დავალება1.Form1.resources
+C:\Users\x\source\repos\დავალება1\obj\Debug\დავალება1.Properties.Resources.resources
+C:\Users\x\source\repos\დავალება1\obj\Debug\დავალება1.csproj.GenerateResource.cache
+C:\Users\x\source\repos\დავალება1\obj\Debug\დავალება1.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\დავალება1\obj\Debug\დავალება1.exe
+C:\Users\x\source\repos\დავალება1\obj\Debug\დავალება1.pdb
